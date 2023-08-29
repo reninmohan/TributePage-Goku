@@ -1,3 +1,1 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/triss90/pen/GqRKeW.
-
- 
+A Pen created at CodePen.io. Site live at https://reninmohan.github.io/TributePage-Goku/
